@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <company>
   <title>Yannis ATTARD</title>
-  <based-in>Angoulême, France</based-in>
-  <founding-date></founding-date>
   <website>https://www.linkedin.com/in/yannis-attard-a7937699/</website>
   <press-contact>
     yannis.attard@gmail.com
   </press-contact>
+  <phone>(+33)6 95 46 95 46</phone>
 
   <!-- Google analytics ID: -->
   <analytics></analytics>
 
-  <phone>(+33)6 95 46 95 46</phone>
-  <address>
-    <line>
-      <!-- Street -->
-    </line>
-    <line>
-      <!-- City -->
-    </line>
-    <line>
-      <!-- Country -->
-    </line>
-  </address>
 
   <socials>
     <social>
@@ -47,6 +34,7 @@
         It was done on Unreal Engine 4.16. I made a live growing tree algorithm, using the fresh new procedural mesh library on UE4.
         As a programer, I also work on optimisation, VR usability, tree generation.
         Outside of my programer work, I did some game design, and I organized the last sprint of the team.
+        You can download and try Little Seeds here : https://noemieszm.itch.io/littleseeds
       </text>
     </history>
   </histories>
@@ -73,15 +61,7 @@
     </award>
   </awards>
 
-  <quotes>
-    <quote>
-      <description></description>
-      <name></name>
-      <website></website>
-      <link></link>
-    </quote>
-  </quotes>
-
+<!--
   <additionals>
     <additional>
       <title></title>
@@ -89,16 +69,7 @@
       <link></link>
     </additional>
   </additionals>
-
-  <credits>
-    <credit>
-      <person></person>
-      <role></role>
-
-      <!-- Optional: -->
-      <website></website>
-    </credit>
-  </credits>
+-->
 
   <contacts>
     <contact>
