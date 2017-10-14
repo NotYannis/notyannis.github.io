@@ -11,8 +11,13 @@
     </platform>
   </platforms>
 
+ <price>
+  <currency>EUR</currency>
+  <value>Free</value>
+</price>
+
   <description>
-    Here goes a quick description of your product or game. Be concise and explain in very few words the concept or the gameplay and why it's really cool and why everyone should use or play it.
+    Little Seeds is a short relaxing VR experience
   </description>
 
   <histories>
@@ -47,7 +52,11 @@
   </histories>
 
   <features>
-    <feature></feature>
+    <feature>Accessible game with simple and intuitive controls</feature>
+    <feature>Create unique procedurally generated trees</feature>
+    <feature>Mix seeds to create new kinds of tree</feature>
+    <feature>A relaxing colorful garden, inhabited by some animals</feature>
+    <feature>Spatialized sound to enhance immersion</feature>
   </features>
 
   <trailers>
