@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Yannis ATTARD</title>
+  <based-in>Angoulême, France</based-in>
+  <founding-date></founding-date>
+  <website>https://www.linkedin.com/in/yannis-attard-a7937699/</website>
+  <press-contact>
+    yannis.attard@gmail.com
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+  <phone>(+33)6 95 46 95 46</phone>
+  <address>
+    <line>
+      <!-- Street -->
+    </line>
+    <line>
+      <!-- City -->
+    </line>
+    <line>
+      <!-- Country -->
+    </line>
+  </address>
+
+  <socials>
+    <social>
+      <name>Twitter @captain_mussel</name>
+      <link>
+        https://twitter.com/Captain_Mussel
+      </link>
+    </social>
+  </socials>
+
+  <description>
+    I'm a gameplay programer student at CNAM-ENJMIN, France. I use Unity and Unreal Engine.
+    I love to work with a team, I aim to make my projects a beautiful road of social encounters and a great human experience.
+    I love to code gameplay, and I also like to participate on other game making aspects, such as game design or team organisation.
+  </description>
+
+  <histories>
+    <history>
+      <header>Little Seeds</header>
+      <text>
+        Little seeds is a three month student project. It's a relaxing VR game wich take place in a dreamed garden.
+        It was done on Unreal Engine 4.16. I made a live growing tree algorithm, using the fresh new procedural mesh library on UE4.
+        As a programer, I also work on optimisation, VR usability, tree generation.
+        Outside of my programer work, I did some game design, and I organized the last sprint of the team.
+      </text>
+    </history>
+  </histories>
+
+  <trailers>
+    <trailer>
+      <name>Little Seeds</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        FgQw1B4FfPc
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <awards>
+    <award>
+      <description>Honorable mention for the video game student category at the "Pixel Challenge"</description>
+      <info>
+        We won the second place of the Pixel Challenge, a game jam in Quebec City.
+        I was the only programer in a team of five people. We did the game in Unity.
+        The game was rewarded for its "great originality" and "craziness". We're kinda proud about it.
+      </info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person></person>
+      <role></role>
+
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Yannis ATTARD</name>
+      <mail>yannis.attard@gmail.com</mail>
+    </contact>
+  </contacts>
+</company>
