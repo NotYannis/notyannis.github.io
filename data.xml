@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <company>
   <title>Yannis ATTARD</title>
+  <based-in>France</based-in>
   <website>https://www.linkedin.com/in/yannis-attard-a7937699/</website>
   <press-contact>
     yannis.attard@gmail.com
@@ -28,15 +29,11 @@
 
   <histories>
     <history>
-      <header>Little Seeds</header>
+      <header></header>
       <text>
-        Little seeds is a three month student project. It's a relaxing VR game wich take place in a dreamed garden.
-        It was done on Unreal Engine 4.16. I made a live growing tree algorithm, using the fresh new procedural mesh library on UE4.
-        As a programer, I also work on optimisation, VR usability, tree generation.
-        Outside of my programer work, I did some game design, and I organized the last sprint of the team.
-        You can download and try Little Seeds here :
+
       </text>
-      <link>https://noemieszm.itch.io/littleseeds</link>
+      <link></link>
     </history>
   </histories>
 
