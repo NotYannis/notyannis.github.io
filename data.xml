@@ -22,16 +22,24 @@
   </socials>
 
   <description>
-    I'm a gameplay programer student at CNAM-ENJMIN, France. I use **Unity** and **Unreal Engine**.
-    I love to work with a team, I aim to make my projects a beautiful road of social encounters and a great human experience.
-    I love to code gameplay, and I also like to participate on other game making aspects, such as game design or team organisation.
+    Gameplay programmer. Unity. Unreal Engine. Teamwork. Collaboration.
   </description>
 
   <histories>
+  <history>
+      <header>Studies</header>
+      <text>
+		I'm currently learning gameplay programming at CNAM-ENJMIN, a school that focus on teamwork.
+		Every specialities are represented in this school, so we can learn production pipelines,
+		how to make a game from scratch... 
+      </text>
+      <link></link>
+    </history>
     <history>
       <header></header>
       <text>
-
+		I love to work with a team, I aim to make my projects a beautiful road of social encounters and a great human experience.
+		I love to code gameplay, and I also like to participate on other game making aspects, such as game design or team organisation.
       </text>
       <link></link>
     </history>

@@ -1,1 +1,1 @@
-xcopy /s/v /y D:\Projets\portfolio\notyannis.github.io\build D:\Projets\portfolio\notyannis.github.io
+xcopy /s/v /y build .\
