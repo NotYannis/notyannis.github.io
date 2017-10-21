@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Drowned</title>
+  <release-date>October 09, 2017</release-date>
+  <website>https://aless.itch.io/drowned</website>
+
+  <platforms>
+    <platform>
+      <name>Windows</name>
+      <link>https://aless.itch.io/drowned</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency></currency>
+      <value>Free</value>
+    </price>
+  </prices>
+
+  <description>Drowned is an ambiant-horrific game where you have to sneak between sea monsters to get out of the ocean</description>
+
+  <history>
+    This game was made using Unreal Engine 4. It was made during the Enjam 2017, an intern jam for ENJMIN students. We were two programmer on the project.
+    I did the AI of sea monsters with the UE AI tool, as well as a little tool for game designer to help them make monster's patrols.
+  </history>
+
+  <features>
+    <feature>Beautiful graphics, using Volumetric Fog and SSS</feature>
+    <feature>Great sound design</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Walkthrough</name>
+      <youtube>
+        MNz_ETo-tQ0
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <itch>
+      182226
+    </itch>
+  </widgets>
+</product>

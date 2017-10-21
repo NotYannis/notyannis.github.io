@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Love LoveGod</title>
+  <release-date>October 10, 2016</release-date>
+  <website>https://yberry.itch.io/lovelovegod</website>
+
+  <platforms>
+    <platform>
+      <name>Windows</name>
+      <link>https://yberry.itch.io/lovelovegod</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency></currency>
+      <value>Free</value>
+    </price>
+  </prices>
+
+  <description>Love LoveGod is a two player brawler, where you win by sending flowers to the LoveGod, watching you from the top of the arena</description>
+
+  <!-- Choose between a single block: -->
+  <history>
+    This game was made with Unity, during the ENJAM 2016, an intern jam for ENJMIN students. We were two programmers on the project. It was my first time on Unity, 
+    and I made the character controller.
+  </history>
+
+  <features>
+    <feature>A dynamic brawler</feature>
+    <feature>You don't have to kill your opponent to win !</feature>
+  </features>
+
+</product>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Self Control</title>
+  <release-date>Avril 13, 2016</release-date>
+  <website>https://noemieszm.itch.io/self-control</website>
+
+  <!-- Link to request press copy: -->
+
+  <platforms>
+    <platform>
+      <name>Windows and Mac</name>
+      <link>https://noemieszm.itch.io/self-control</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency></currency>
+      <value>Free</value>
+    </price>
+  </prices>
+
+  <description>In Self Control, you have to take pictures with your coworkers during a party</description>
+
+  <!-- Choose between a single block: -->
+  <history>
+    This game was made with Unity. I did it with 4 friends during the Pixel Challenge, a 47 hours game jam in Quebec city. I was the only programmer.
+    I did the game system, the sounds and graphic integration, but also some game design. It was the smoothest game jam I've ever made. I even had enough
+    time to code a cool end and a nice menu !
+  </history>
+
+  <features>
+    <feature>Original controls</feature>
+    <feature>Funny face expressions and party surprises</feature>
+    <feature>One of the best RPS's free game of the week (04/15/2017)</feature>
+    <feature>Also featured in Waypoint.vice</feature>
+    <feature>Won the honorable mention in Pixel Challenge student category (2nd place)</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Trailer</name>
+      <youtube>
+        gK9yUh6yahg
+      </youtube>
+    </trailer>
+    <trailer>
+      <name>Walkthrough</name>
+      <youtube>
+        8toeFDi5Jfk
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <widgets>
+    <itch>
+      134357
+    </itch>
+  </widgets>
+
+</product>

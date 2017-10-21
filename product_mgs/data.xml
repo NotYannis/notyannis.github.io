@@ -13,7 +13,7 @@
 
   <prices>
     <price>
-      <currency>EUR</currency>
+      <currency></currency>
       <value>Free</value>
     </price>
   </prices>
@@ -33,7 +33,7 @@
     <feature>Beautiful graphics</feature>
     <feature>All questions are dubbed</feature>
     <feature>A Ouija table !</feature>
-    <feature>It ended 20th on LD's Overall rating</feature>
+    <feature>Ended 20th on LD's Overall rating</feature>
   </features>
 
   <trailers>
