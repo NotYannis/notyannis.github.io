@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Maggie's Grinning Soul</title>
+  <release-date>December 11, 2016</release-date>
+  <website>https://thais-arias.itch.io/maggies-grinning-soul</website>
+
+  <platforms>
+    <platform>
+      <name>Windows, Mac and Linux</name>
+      <link>https://thais-arias.itch.io/maggies-grinning-soul</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>EUR</currency>
+      <value>Free</value>
+    </price>
+  </prices>
+
+  <description>Maggie's Grinning Soul is a short investigation game made for the 37th Ludum Dare</description>
+
+  <!-- Choose between a single block: -->
+  <history>
+      This game was made on Unity. I was the only programmer in a team of 8 students.
+      Basically, the game is a hidden object game :
+      you find an object, it unlocks questions, one question will unlock an object, and so on.
+      I had to make the game system, but also all the graphic and sound integration. Since the 
+      game system was simple, the game jam ran smoothly, and I had time to sleep and debug the game !
+  </history>
+
+  <features>
+    <feature>Beautiful graphics</feature>
+    <feature>All questions are dubbed</feature>
+    <feature>A Ouija table !</feature>
+    <feature>It ended 20th on LD's Overall rating</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Walkthrough</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        AQK9byFoOHE
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <itch>
+      <!-- itch.io ID -->
+      <!-- e.g. 42424 -->
+    </itch>
+  </widgets>
+
+</product>

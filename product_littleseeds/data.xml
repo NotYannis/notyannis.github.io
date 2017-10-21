@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Little Seeds</title>
+  <release-date>15 June, 2017</release-date>
+  <website>https://noemieszm.itch.io/littleseeds</website>
+
+  <platforms>
+    <platform>
+      <name>HTC Vive on Windows</name>
+      <link>https://noemieszm.itch.io/littleseeds</link>
+    </platform>
+  </platforms>
+
+ <price>
+  <currency>EUR</currency>
+  <value>Free</value>
+</price>
+
+  <description>
+    Little Seeds is a short relaxing VR experience
+  </description>
+
+  <histories>
+    <history>
+      <header>My work</header>
+       <text>
+       It was my first VR game, my first 3D game and my first Unreal Engine game. I worked more specifically on trees :
+       one of the challenge of the game was to make trees grow in real time. I used the fresh new UE Procedural Mesh library
+       to achieve this. I also worked on the game controls, wich differ from an usual VR game. And I also learned how 
+       to optimize a game, since VR is very expensive.
+       Beside my work as a programer, I also organized the last sprint of the project.
+       </text>
+    </history>
+    <history>
+      <header>The project</header>
+      <text>
+        Little Seeds is a three month student project made at CNAM-ENJMIN. We were a team of seven people :
+        a manager, a game designer, a graphic artist, a UX designer, a sound designer and two programmer.
+        It was our first "real" game project. 
+      </text>
+    </history>
+    <history>
+      <header>The game</header>
+       <text>
+       Little Seeds is a relaxing VR game, wich take place in a dreamed garden. With simple controls,
+       he can pick a seed, put it into a put, water it to make a tree grow, prune it, and then plant 
+       it in the garden. He can also teleport in different place in the garden, enjoying the river or
+       the birds flying.
+       From the beginning we wanted to make this game for everyone, even people who doesn't play video game.
+       </text>
+    </history>
+  </histories>
+
+  <features>
+    <feature>Accessible game with simple and intuitive controls</feature>
+    <feature>Create unique procedurally generated trees</feature>
+    <feature>Mix seeds to create new kinds of tree</feature>
+    <feature>A relaxing colorful garden, inhabited by some animals</feature>
+    <feature>Spatialized sound to enhance immersion</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Teaser</name>
+      <youtube>
+        FgQw1B4FfPc
+      </youtube>
+    </trailer>
+    <trailer>
+      <name>Walkthrough</name>
+      <youtube>
+        mFEax7faLuk
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <itch>
+      151452
+    </itch>
+  </widgets>
+
+</product> 
