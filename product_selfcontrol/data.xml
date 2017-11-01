@@ -30,8 +30,10 @@
   </history>
 
   <features>
-    <feature>Original controls</feature>
-    <feature>Funny face expressions and party surprises</feature>
+    <feature>Unity</feature>
+    <feature>Sounds integration using Wwise</feature>
+    <feature>Graphic assets integration</feature>
+    <feature>Implemented all the gameplay</feature>
     <feature>One of the best RPS's free game of the week (04/15/2017)</feature>
     <feature>Also featured in Waypoint.vice</feature>
     <feature>Won the honorable mention in Pixel Challenge student category (2nd place)</feature>

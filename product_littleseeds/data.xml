@@ -52,11 +52,13 @@
   </histories>
 
   <features>
-    <feature>Accessible game with simple and intuitive controls</feature>
-    <feature>Create unique procedurally generated trees</feature>
-    <feature>Mix seeds to create new kinds of tree</feature>
-    <feature>A relaxing colorful garden, inhabited by some animals</feature>
-    <feature>Spatialized sound to enhance immersion</feature>
+    <feature>Unreal Engine 4</feature>
+    <feature>Blueprints and C++</feature>
+    <feature>Sound integration using Wwise</feature>
+    <feature>Live growing trees, using Procedural Meshes</feature>
+    <feature>Graphic optimization</feature>
+    <feature>VR usability</feature>
+    <feature>Some team management</feature>
   </features>
 
   <trailers>

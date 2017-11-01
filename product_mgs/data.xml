@@ -30,10 +30,13 @@
   </history>
 
   <features>
-    <feature>Beautiful graphics</feature>
-    <feature>All questions are dubbed</feature>
-    <feature>A Ouija table !</feature>
-    <feature>Ended 20th on LD's Overall rating</feature>
+    <feature>Unity</feature>
+    <feature>A Ouija table</feature>
+    <feature>Sound integration using Wwise</feature>
+    <feature>Graphic assets integration</feature>
+    <feature>Implemented all the gameplay</feature>
+    <feature>A tool for designers to link objects to questions</feature>
+    <feature>20th game of Ludum Dare 20th on overall ratings</feature>
   </features>
 
   <trailers>

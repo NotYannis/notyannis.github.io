@@ -26,8 +26,10 @@
   </history>
 
   <features>
-    <feature>Beautiful graphics, using Volumetric Fog and SSS</feature>
-    <feature>Great sound design</feature>
+    <feature>Unreal Engine 4</feature>
+    <feature>Simple AI using UE AI tool</feature>
+    <feature>Simple tool for game designers</feature>
+    <feature>Some game design</feature>
   </features>
 
   <trailers>
