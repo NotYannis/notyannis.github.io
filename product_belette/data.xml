@@ -3,14 +3,13 @@
   <title>Belette Hell</title>
   <release-date>Not released yet</release-date>
   <website>https://twitter.com/BeletteHell</website>
-
   <!-- Link to request press copy: -->
   <press-copy-request></press-copy-request>
 
   <platforms>
     <platform>
-      <name>Windows and iOs/Andoird</name>
-      <link></link>
+      <name>Windows and iOs/Android</name>
+      <link>https://belette-team.itch.io/</link>
     </platform>
   </platforms>
 
