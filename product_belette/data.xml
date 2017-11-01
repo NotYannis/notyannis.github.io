@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Belette Hell</title>
+  <release-date>Not released yet</release-date>
+  <website>https://twitter.com/BeletteHell</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Windows and iOs/Andoird</name>
+      <link></link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency></currency>
+      <value></value>
+    </price>
+  </prices>
+
+  <description>Belette Hell is an asymmetrical 2-player versus game. One player is on PC and play a boss rush shooter, and
+				the other is inside the boss, using a smartphone to defend himself and attack the shmup player in a "Clash Royal like"</description>
+
+
+  <histories>
+    <history>
+      <header></header>
+      <text>We did this project during our studies, and I worked on it at full time during two months with a bigger team - we were ten,
+			with three programers (including me). We did this game on Unity. I did a lot of gameplay, I learned a lot about Unity UI (the smarthpone
+			app is a big UI), and I also learned about team managing, since I was working with two other programmer, and I was their "lead" (mostly
+			distributing work and refering to other specialties).</text>
+    </history>
+  </histories>
+
+  <features>
+    <feature></feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name></name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL -->
+      </youtube>
+      <vimeo>
+        <!-- Video ID only, not the full URL -->
+      </vimeo>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+      <!-- Steam ID -->
+      <!-- e.g. 424242 -->
+    </steam>
+    <humble>
+      <!-- Humble Bundle product/id -->
+      <!-- e.g. mysupergame/42AAbB42dC -->
+    </humble>
+    <itch>
+      <!-- itch.io ID -->
+      <!-- e.g. 42424 -->
+    </itch>
+    <bandcamp>
+      <!-- Bandcamp ID -->
+      <!-- e.g. 4242424242 -->
+    </bandcamp>
+  </widgets>
+
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person></person>
+      <role></role>
+
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name></name>
+
+      <!-- Pick one: -->
+      <mail></mail>
+      <link></link>
+    </contact>
+  </contacts>
+</product>
